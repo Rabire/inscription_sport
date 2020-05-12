@@ -1,0 +1,9 @@
+Impossible de s'inscrire si plus de place ou evenement passé
+Calendrier format liste
+
+Interface coach
+    Présence desinscris
+    inscrire/desinscrire
+    Format téléphone 
+
+Send invitation RDV outlook
